@@ -33,25 +33,25 @@
     "bunyan"
   ],
   "dependencies": {
-    "aws-sdk": "^2.0.0"
+    "aws-sdk": "^2.171.0"
   },
   "devDependencies": {
-    "coveralls": "^2.13.1",
-    "dmd": "2.1.2",
+    "coveralls": "^2.13.3",
+    "dmd": "^2.1.2",
     "dotenv": "^4.0.0",
-    "eslint": "^3.9.1",
-    "eslint-plugin-jsdoc": "^2.3.1",
+    "eslint": "^3.19.0",
+    "eslint-plugin-jsdoc": "^2.4.0",
     "expect": "^1.20.2",
-    "handlebars": "3.0.3",
-    "jsdoc-api": "2.0.5",
-    "jsdoc-parse": "2.0.5",
+    "handlebars": "^3.0.3",
+    "jsdoc-api": "^2.0.5",
+    "jsdoc-parse": "^2.0.5",
     "minimist": "^1.2.0",
-    "mocha": "^3.0.2",
-    "nyc": "^11.0.1",
+    "mocha": "^3.5.3",
+    "nyc": "^11.4.1",
     "object-assign": "^4.1.1",
-    "object-inspect": "^1.2.1",
-    "proxyquire": "^1.7.11",
-    "uuid": "^3.0.1"
+    "object-inspect": "^1.4.0",
+    "proxyquire": "^1.8.0",
+    "uuid": "^3.1.0"
   },
   "optionalDependencies": {
     "safe-json-stringify": "^1.0.4"
